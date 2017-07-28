@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: background 0.5s;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .back-to-top {
     bottom: 15px;
   }
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 50px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #hero h2 {
     font-size: 24px;
     line-height: 26px;
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 50px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #header {
     height: 80px;
   }
@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 5px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #nav-menu-container {
     display: none;
   }
@@ -359,7 +359,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #mobile-nav-toggle {
     display: inline;
   }
