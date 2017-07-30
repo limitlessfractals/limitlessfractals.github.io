@@ -675,12 +675,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .profile .pic {
+  display: block;
+  margin: auto;
   border-radius: 50%;
   border: 6px solid #fff;
   margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
-  width: 260px;
+  height: 140px;
+  width: 140px;
 }
 
 #testimonials .profile .pic img {
