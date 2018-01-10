@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ikkyu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mimeticarbitrage.com
+  * I am ikkyu (https://keybase.io/ikkyu) on keybase.
+  * I have a public key ASDo3OqQ5DBs6Uo-2MHESk8X7jo3SsQxbuz1QZkKWIqxXgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e8dcea90e4306ce94a3ed8c1c44a4f17ee3a374ac4316eecf541990a588ab15e0a",
+      "host": "keybase.io",
+      "kid": "0120e8dcea90e4306ce94a3ed8c1c44a4f17ee3a374ac4316eecf541990a588ab15e0a",
+      "uid": "639529f6512eedd818dd8ab0cca28719",
+      "username": "ikkyu"
+    },
+    "merkle_root": {
+      "ctime": 1515616968,
+      "hash": "b2f4c7ffe046a9d2f017bc58becf785479997c58ee9cf90251179414c799fb04569b20adaf03c665dd63c6e42166e8e203b8d9bfc813e1f796084db4d2b71777",
+      "hash_meta": "87402b494d2585ef30de2504d6ac79d9e1c0bcc66ef2dc3a72a3dbd231fc8e85",
+      "seqno": 1912353
+    },
+    "service": {
+      "hostname": "mimeticarbitrage.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515616987,
+  "expire_in": 504576000,
+  "prev": "ff21b4d82bcf1be3d886e3d197e752b691259e1ef95f05f41a1905dbb300ebf6",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6NzqkOQwbOlKPtjBxEpPF+46N0rEMW7s9UGZCliKsV4Kp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZThkY2VhOTBlNDMwNmNlOTRhM2VkOGMxYzQ0YTRmMTdlZTNhMzc0YWM0MzE2ZWVjZjU0MTk5MGE1ODhhYjE1ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZThkY2VhOTBlNDMwNmNlOTRhM2VkOGMxYzQ0YTRmMTdlZTNhMzc0YWM0MzE2ZWVjZjU0MTk5MGE1ODhhYjE1ZTBhIiwidWlkIjoiNjM5NTI5ZjY1MTJlZWRkODE4ZGQ4YWIwY2NhMjg3MTkiLCJ1c2VybmFtZSI6Imlra3l1In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE1NjE2OTY4LCJoYXNoIjoiYjJmNGM3ZmZlMDQ2YTlkMmYwMTdiYzU4YmVjZjc4NTQ3OTk5N2M1OGVlOWNmOTAyNTExNzk0MTRjNzk5ZmIwNDU2OWIyMGFkYWYwM2M2NjVkZDYzYzZlNDIxNjZlOGUyMDNiOGQ5YmZjODEzZTFmNzk2MDg0ZGI0ZDJiNzE3NzciLCJoYXNoX21ldGEiOiI4NzQwMmI0OTRkMjU4NWVmMzBkZTI1MDRkNmFjNzlkOWUxYzBiY2M2NmVmMmRjM2E3MmEzZGJkMjMxZmM4ZTg1Iiwic2Vxbm8iOjE5MTIzNTN9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWltZXRpY2FyYml0cmFnZS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE1NjE2OTg3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImZmMjFiNGQ4MmJjZjFiZTNkODg2ZTNkMTk3ZTc1MmI2OTEyNTllMWVmOTVmMDVmNDFhMTkwNWRiYjMwMGViZjYiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECbjh2KhNDAEos7wuV/AJXV0m6XxAeMadW/jIQsZkGkuhOBOmd4x0RYKglid6o1jWq8J1N5VVT0JB5u3F0v7esAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgpqHBylaoSTfhL5PYyjaMpB7NLK8OXqBKfTLqm4l6D0SjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ikkyu
+
+==================================================================
